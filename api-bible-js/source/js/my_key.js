@@ -1,1 +1,5 @@
-const API_KEY = `81f316c5f31960d155555818b8d0a59c`; // Fill this in with your own API key from https://scripture.api.bible/
+/*
+ *   Copyright (c) 2021 Masaru Kitajima
+ *   All rights reserved.
+ */
+const API_KEY = `c27e1343097de8c7dd7498167c07c7a9`; // Fill this in with your own API key from https://scripture.api.bible/
