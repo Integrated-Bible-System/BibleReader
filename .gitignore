@@ -329,3 +329,8 @@ test/
 dist/
 npm-debug.log
 yarn-error.log
+
+### My memo
+note/
+my_key.js
+bibletester/js/my_key.js
