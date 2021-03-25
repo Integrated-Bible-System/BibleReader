@@ -41,7 +41,6 @@ while (index <= LastNumber) {
   name += index.toString(10);
   name += '.json';
   const jsonObject = JSON.parse(fs.readFileSync(name, 'utf8'));
-  result = jsonObject;
   //console.log(typeof(jsonObject));
   /*
   var inputObject = JSON.parse(json);
