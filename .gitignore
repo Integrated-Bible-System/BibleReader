@@ -334,3 +334,6 @@ yarn-error.log
 memo/
 my_key.js
 bibletester/js/my_key.js
+
+### SQL ###
+*.sql
